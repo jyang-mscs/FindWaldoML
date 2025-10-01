@@ -1,0 +1,7 @@
+names:
+- waldo
+- notwaldo
+nc: 2
+path: /Users/jeffyang/CS715-Final/dataset_yolo
+train: images/train
+val: images/val
